@@ -1,5 +1,5 @@
 # The philosophy behind my setup
-Configuring a PC for my software engineering need is something I do often enough that I think I
+Configuring a PC for my software engineering need is something I do often enough that I dont't want to have to do it over and over again, so I think I
 should document my process and hopefully I can keep improving my setup.
 
 ## Ubuntu 22.04 (My preferred Operating System)
